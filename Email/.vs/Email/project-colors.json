@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03238f62-2d0f-432b-95e4-7a379d98577c": {
+      "ProjectGuid": "03238f62-2d0f-432b-95e4-7a379d98577c",
+      "DisplayName": "Email",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
